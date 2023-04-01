@@ -1,9 +1,9 @@
 ### Beleza? Bem vindx!! ✌🏽
 
 
-Meu nome é **Joanantha**, sou estudante do 8° período de ciência da computação.
+Meu nome é **Joanantha**, formado ciência da computação, consultor de desenvolvimento na Thoghtworks.
 
-- 💻 Atualmente trabalho como desenvolvedor na [Capiba](https://capiba.com.br)
+- 💻 Atualmente trabalho como desenvolvedor na [Thoughtworks](https://capiba.com.br)
 - 👨🏾‍💻 Focado no desenvolvimento backend 
 
 <div>
