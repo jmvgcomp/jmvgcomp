@@ -3,7 +3,7 @@
 
 Meu nome é **Joanantha**, formado ciência da computação, consultor de desenvolvimento na Thoghtworks.
 
-- 💻 Atualmente trabalho como desenvolvedor na [Thoughtworks](https://capiba.com.br)
+- 💻 Atualmente trabalho como desenvolvedor na [Thoughtworks](https://www.thoughtworks.com/pt-br)
 - 👨🏾‍💻 Focado no desenvolvimento backend 
 
 <div>
